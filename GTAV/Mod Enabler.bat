@@ -3,8 +3,8 @@ rem Thanks for downloading my launcher, feel free to take a look at/borrow anyth
 
 rem Wow, its been a while since 1.3.6, hasn't it? - At the time of writing, about a year!
 
-rem GTA 5 Mod Enabler 1.4.3
-set "version=1.4.3"
+rem GTA 5 Mod Enabler 1.4.4
+set "version=1.4.4"
 
 rem See if the current directory has the GTA5 files
 :dircheck
@@ -32,7 +32,7 @@ rem Main menu
 cls
 set "curpath=%cd%"
 title Welcome to achmadfhbw's Mod Enabler %version%
-echo Welcome to FaZe IlLuMiNaTi's Mod Enabler %version%
+echo Welcome to achmadfhbw's Mod Enabler %version%
 echo Modified from FaZe IlLuMiNaTi's Mod Enabler by achmadfhbw
 %updateerror%
 echo:
